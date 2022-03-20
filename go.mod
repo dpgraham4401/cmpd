@@ -1,3 +1,3 @@
-module github.com/dpgrahm4401/cmpd
+module github.com/dpgraham4401/cmpd
 
 go 1.16
